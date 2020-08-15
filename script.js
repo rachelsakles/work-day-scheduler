@@ -17,7 +17,7 @@ $(document).ready(function () {
     })
 })
 
-// Retrieve data from local storage
+// Retrieve data from local storage for each hour
 let schedule = localStorage.getItem("storage");  
 $("#hour-9 .description").val(localStorage.getItem("hour-9")) 
 $("#hour-10 .description").val(localStorage.getItem("hour-10")) 
