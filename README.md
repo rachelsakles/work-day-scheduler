@@ -8,4 +8,5 @@ INSTRUCTIONS:
 
 . To save the events, simply hit the save button in blue. The events will save even upon refreshing the page. To get rid of an event delete the text and save it again.
 
- Deployed URL: https://rachelsakles.github.io/work-day-scheduler/
+ Deployed URL: https://rachelsakles.github.io/work-day-scheduler/ 
+ ![workday-scheduler](screenshot/workdayschedule.png)
